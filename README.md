@@ -30,8 +30,7 @@ Basicamente, um projeto prático oferecido pela DIO (Digital Innovation One), pa
         Estabelece a capacidade de redução e de compreensão do item.
  - Flex
         É um atalho de abreviação para as propriedades: grow, shrink e basis.
- - Order  
-        Irá lidar com a organização dos itens.
+ - Order: Irá lidar com a organização dos itens.
  - Align-Self
         É a propriedade que estabelece o alinhamento de modo individual sobre um determinado item.
         
