@@ -2,7 +2,7 @@
 
 ## Projeto - Qual propósito?
 
-Basicamente, um projeto prático oferecido pela DIO (Digital Innovation One), para desenvolver a página Inicial Do Instagram, utilizando apenas HTML e CSS3 Flexbox.
+Basicamente, um projeto prático para desenvolver a página Inicial Do Instagram, utilizando apenas HTML e CSS3 Flexbox.
 
 ## O que foi utilizado?
 
